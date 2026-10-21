@@ -1,0 +1,1 @@
+Сюда скрипт build_so_api19.sh/.bat кладёт libtgwsproxy.so (сборка под API 19). Готовые .so из оригинала на Android 4.4 не работают.
