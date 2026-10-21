@@ -1,5 +1,0 @@
-<resources>
-    <!-- Holo — штатная тема Android 4.x. -->
-    <style name="AppTheme.Light" parent="@android:style/Theme.Holo.Light.NoActionBar" />
-    <style name="AppTheme.Dark" parent="@android:style/Theme.Holo.NoActionBar" />
-</resources>
